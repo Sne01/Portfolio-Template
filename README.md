@@ -1,10 +1,10 @@
-**# My Portfolio Website Template**
+### My Portfolio Website Template
 
-**Description**
+**# Description**
 
 A responsive and modern portfolio website template built with  HTML, CSS, JavaScript, etc. This template is designed to showcase my skills and experiences as a web developer.
 
-**Features**
+**# Features**
 
 -Responsive design for optimal viewing on desktop, tablet, and mobile devices
 
@@ -12,9 +12,9 @@ A responsive and modern portfolio website template built with  HTML, CSS, JavaSc
 
 -Easy to customize and modify to fit your own style
 
-**Getting Started**
+**# Getting Started**
 
-**Installation**
+**# Installation**
 
 1.Clone the repository: git clone  https://github.com/Sne01/Portfolio-Template
 
@@ -22,12 +22,12 @@ A responsive and modern portfolio website template built with  HTML, CSS, JavaSc
 
 3.Make any necessary changes to the code to customize the template for your own use
 
-**Usage**
+**# Usage**
 
 1.Open the index.html file in your web browser to view the template
 
 2.Use the template as a starting point for your own portfolio website
 
-**Acknowledgments**
+**# Acknowledgments**
 
 This template was inspired by Rishub Mishra. I would like to thank Rishub Mishra for their contributions to the development of this template.
