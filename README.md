@@ -1,7 +1,4 @@
 # My Portfolio Website Template
-
-## Description
-
 A responsive and modern portfolio website template built with  HTML, CSS, JavaScript, etc. This template is designed to showcase my skills and experiences as a web developer.
 
 ## Features
